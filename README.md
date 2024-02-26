@@ -1,4 +1,4 @@
-# nosso_primeiro_projeto
+# my_first_project
 
 Nosso primeiro projeto em flutter
 
